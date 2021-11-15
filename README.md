@@ -3,10 +3,8 @@
 
 ## How do I define Growth Mindset?
 
-### ** A _growth mindset_ is learning to apply yourself and never giving up.**
+ Hello my name is Michael and to me a _Growth Mindset_ is learning to apply yourself and never giving up.**
 
 - Accept challenges
 - Learn from your mistakes
 - Ask questions
-
-######
