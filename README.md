@@ -1,10 +1,10 @@
-# this is my heading for my reading notes page 
+# Lab01b 
 
-## this is a blerb about me 
+##**Growth Mindset
 
-I am Michael andI am new to coding
 
-### This is how i wll keep myself in a growth mindset
+
+### This is how i wll keep myself in a growth min
 
 * KEEP LEARNING.
 * DO THIS.
