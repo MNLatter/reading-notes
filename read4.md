@@ -17,11 +17,11 @@
 ## Semantics
 - Refers to the meaning of a piece of code.
 - Semantic Element example
-  -<article>
-    -<aside>
+  - <article>
+    - <aside>
       - <details>
-          -<figcaption>
-            -<figure>
+          - <figcaption>
+            - <figure>
  
 
 
