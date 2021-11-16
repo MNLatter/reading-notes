@@ -13,4 +13,4 @@ Choosing a text editor is a personl choice because they are all very similar. Yo
 *rm- remove something from directory
 *mv- used to move a file
 
-[Back<==](https://mnlatter.github.io/reading-notes)
+[<--Home](https://mnlatter.github.io/reading-notes)
