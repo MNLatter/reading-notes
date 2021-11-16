@@ -17,4 +17,4 @@ Files in Git can reside in three stages; Committed, Modified, and Staged.
 
 ### Workflow
 
-**--Working Directory ---> add ---> index ---> commit ---> head--**
+*Working Directory ---> add ---> index ---> commit ---> head*
