@@ -10,9 +10,9 @@
 - Ask questions
 
 ### Table of Contents
-- [Class 1 Reading](
-- [Class 2 Reading](
-- [Class 3 Reading](
+- [Class 1 Reading](read1.md)
+- [Class 2 Reading](read2.md)
+- [Class 3 Reading](read3.md)
 
 
 
