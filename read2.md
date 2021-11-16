@@ -1,5 +1,5 @@
 # The Coder's Computer
 
-## Choosing a Text Editor
+## ***Choosing a Text Editor***
 
 
