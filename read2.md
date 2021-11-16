@@ -1,4 +1,4 @@
 # The Coder's Computer
 
--Choosing a Text Edtor
+- Choosing a Text Edtor
 
