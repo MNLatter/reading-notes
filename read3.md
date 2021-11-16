@@ -8,12 +8,13 @@ When you save a changed version of your project that is called a commit and any 
 Files in Git can reside in three stages; Committed, Modified, and Staged.
 
 
-- Committed: Data is securley stored in a local data base.
+- **Committed: Data is securley stored in a local data base.
 
-- Modified: A file has been changed but not committed to database.
+- **Modified: A file has been changed but not committed to database.
 
-- Staged
+- **Staged: Flagged a file's changed version to be committed to database.
 
 
 ### Workflow
--
+
+Working Directory ---> add ---> index ---> commit ---> head
