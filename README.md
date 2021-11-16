@@ -10,10 +10,10 @@
 - Ask questions
 
 ### Table of Contents
-- [Class 1 Reading](read1.md)
-- [Class 2 Reading](read2.md)
-- [Class 3 Reading](read3.md)
-
+- [class 1 reading](read1.md)
+- [class 2 reading](read2.md)
+- [class 3 reading](read3.md)
+- [class 4 reading](read4.md)
 
 
 ![This is an image](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
