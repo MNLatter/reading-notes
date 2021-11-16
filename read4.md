@@ -24,6 +24,6 @@
 - < figure >
  
  
- [<--Home](
+ [<--Home](https://mnlatter.github.io/reading-notes)
 
 
