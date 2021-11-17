@@ -15,6 +15,7 @@
 - [class 3 reading](read3.md)
 - [class 4 reading](read4.md)
 - [class 5 reading](read5.md)
+- [class 6 reading](read6.md)
 
 
 ![This is an image](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
