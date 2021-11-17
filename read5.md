@@ -22,4 +22,4 @@
 2. External and Internal style sheets
 3. Browser default
 
-[<--Home](
+[<--Home](https://mnlatter.github.io/reading-notes)
