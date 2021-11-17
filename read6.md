@@ -16,6 +16,6 @@
   para.textContent = 'You clicked the button!';
   document.body.appendChild(para);
 }
-- < button onclick="createParagraph()">Click me!</button > this turns into ---> <button onclick="createParagraph()">Click me!</button>
+- < button onclick="createParagraph()">Click me!</button> this turns into this <button onclick="createParagraph()">Click me!</button>
 
 
