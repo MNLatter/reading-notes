@@ -14,4 +14,7 @@
 - Binary operator requires two operands, one before the operator and one after ( operand1 operator operand2 ).
 - A unary operator requires a single operand before or after operator ( operand operator or operator openrand ).
 - An assignment operator assigns a value to its left operand based on the value of its right operand. 
+
+
+
 [<--Home](https://mnlatter.github.io/reading-notes)
