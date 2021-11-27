@@ -9,17 +9,22 @@
 - Learn from your mistakes
 - Ask questions
 
-### 102                           ### 201
-- [class 1](read1.md) - [class 1](.md)
-- [class 2](read2.md) - [class 1](.md)
-- [class 3](read3.md) - [class 1](.md)
-- [class 4](read4.md) - [class 1](.md)
-- [class 5](read5.md) - [class 1](.md)
-- [class 6](read6.md) - [class 1](.md)
-- [class 7](read7.md) - [class 1](.md)
-- [class 8](read8.md) - [class 1](.md)
+### 102
+- [class 1](read1.md) 
+- [class 2](read2.md) 
+- [class 3](read3.md) 
+- [class 4](read4.md)
+- [class 5](read5.md) 
+- [class 6](read6.md) 
+- [class 7](read7.md)
+- [class 8](read8.md)
 
-
-
+### 201
+- [class 1](.md)
+- - [class 1](.md)
+- - [class 1](.md)
+- - [class 1](.md)
+- - [class 1](.md)
+- [class 1](.md)
 
 ![This is an image](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
