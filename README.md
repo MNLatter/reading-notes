@@ -1,5 +1,3 @@
-# Reading Notes!
-
 ## What is Growth Mindset? 
 >    [A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 
 
@@ -10,7 +8,7 @@
 - Accept challenges
 - Learn from your mistakes
 - Ask questions
-
+                                      ![This is an image](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
 ### 102
 - [class 1](read1.md) 
 - [class 2](read2.md) 
