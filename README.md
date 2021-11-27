@@ -9,7 +9,7 @@
 - Learn from your mistakes
 - Ask questions
 
-### Table of Contents
+### 102
 - [class 1 reading](read1.md)
 - [class 2 reading](read2.md)
 - [class 3 reading](read3.md)
@@ -19,6 +19,22 @@
 - [class 7 reading](read7.md)
 - [class 8 reading](read8.md)
 
+### 201
+-[class 201 reading 1](.md)
+-[class 201 reading 2](.md)
+-[class 201 reading 3](.md)
+-[class 201 reading 4](.md)
+-[class 201 reading 5](.md)
+-[class 201 reading 6](.md)
+-[class 201 reading 7](.md)
+-[class 201 reading 8](.md)
+-[class 201 reading 9](.md)
+-[class 201 reading 10](.md)
+-[class 201 reading 11](.md)
+-[class 201 reading 12](.md)
+-[class 201 reading 13](.md)
+-[class 201 reading 14](.md)
+-[class 201 reading 15](.md)
 
 
 ![This is an image](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
