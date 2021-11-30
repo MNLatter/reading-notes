@@ -21,17 +21,17 @@
 - Scripts contain very precise instructions.
 - Variables are used to temporarily store pieces of information used in the script.
 ## Decisions & Loops
-- == is equal to
-- === strict equal to
-- != is not equal to
-- !== strict not equal to
-- > greater than
-- < less than 
-- >= greater than or equal to
-- <= less than or equal to
-- && logical and
-- || logical or
-- ! logical not
+- (==) is equal to
+- (===) strict equal to
+- (!=) is not equal to
+- (!==) strict not equal to
+- (>) greater than
+- (<) less than 
+- (>=) greater than or equal to
+- (<=) less than or equal to
+- (&&) logical and
+- (||) logical or
+- (!) logical not
 
 [<--Home](https://mnlatter.github.io/reading-notes)
 
