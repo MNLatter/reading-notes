@@ -34,4 +34,5 @@
 - ! logical not
 
 [<--Home](https://mnlatter.github.io/reading-notes)
-&copy Jon 
+
+&copy Jon Ducket
