@@ -35,4 +35,4 @@
 
 [<--Home](https://mnlatter.github.io/reading-notes)
 
- &copy Jon Ducket
+ &copy; Jon Ducket
