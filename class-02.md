@@ -32,3 +32,6 @@
 - && logical and
 - || logical or
 - ! logical not
+
+[<--Home](https://mnlatter.github.io/reading-notes)
+&copy Jon 
