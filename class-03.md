@@ -18,4 +18,5 @@
 - You create an array and give it a name just like you would any other variable.
 - Values are assigned to the array inside square brackets and each value is seperated by a comma.
 - Values in an array are accessed as if they are in a numbered list(numbering of this list starts at 0).
-## 
+## Descisions and Loops ➿
+-
