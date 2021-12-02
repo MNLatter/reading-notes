@@ -20,7 +20,7 @@
 - [class 8](read8.md)
 
 ### 201
-- [class 1](210read1.md)
+- [class 1](class-01.md)
 - [class 2](class-02.md)
 - [class 3](class-03.md)
 - [class 4](class-04.md)
