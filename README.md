@@ -22,8 +22,8 @@
 ### 201
 - [class 1](210read1.md)
 - [class 2](class-02.md)
-- [class 3](.md)
-- [class 4](.md)
+- [class 3](class-03.md)
+- [class 4](class-04.md)
 - [class 5](.md)
 - [class 6](.md)
 - [class 7](.md)
