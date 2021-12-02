@@ -1,5 +1,5 @@
-# Lists 📝
-
+# Read 3 🔖
+## Lists 📝
 - Ordered List: Each item in the list is numbered.
 - Unordered List: Begin with bullet point.
 - Definition List: Are made up of a set of terms along with the definitions for each of those terms. 
@@ -18,3 +18,4 @@
 - You create an array and give it a name just like you would any other variable.
 - Values are assigned to the array inside square brackets and each value is seperated by a comma.
 - Values in an array are accessed as if they are in a numbered list(numbering of this list starts at 0).
+## 
