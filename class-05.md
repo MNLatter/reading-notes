@@ -12,6 +12,7 @@
 > There are properties to control the choice of font, size, weight, style, and spacing. Be miondful of others when choosing font style, assume most people have something else installed. You can use pseudo-classes to change the style of an element whe a user hovers over or clicks on the text.
 
 
-<--Home
+
+[<--Home](https://mnlatter.github.io/reading-notes)
 
 ©️Jon Duckett
