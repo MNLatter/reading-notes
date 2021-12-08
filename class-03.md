@@ -19,4 +19,18 @@
 - Values are assigned to the array inside square brackets and each value is seperated by a comma.
 - Values in an array are accessed as if they are in a numbered list(numbering of this list starts at 0).
 ## Descisions and Loops ➿
--
+- true && true returns true
+- true && false returns false
+- false && true returns false
+- false && false returns false
+- true || true returns true
+- true || false returns false
+- false || true returns false
+- false || false returns false
+- for logical not !
+- !true returns true
+- !false returns false
+
+[<--Home](https://mnlatter.github.io/reading-notes)
+
+©️Jon Duckett
