@@ -11,5 +11,9 @@
 ## Functions, Methods, and Objects 🐡
   
 > Functions consist of a series of statements that have been grouped together because they perform a specific task. Programmers use functions, methods, and objects to organize their code.
+  
+  [<--Home](https://mnlatter.github.io/reading-notes)
+
+©️Jon Duckett
 
   
